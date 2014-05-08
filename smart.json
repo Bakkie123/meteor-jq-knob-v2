@@ -1,0 +1,8 @@
+{
+      "name": "jq-knob-v2",
+      "description": "jQuery Knob v2",
+      "homepage": "https://github.com/Bakkie123/meteor-jq-knob-v2",
+      "author": "Jaak Hermans",
+      "version": "0.1.0",
+      "git": "https://github.com/Bakkie123/meteor-jq-knob-v2.git"
+}
